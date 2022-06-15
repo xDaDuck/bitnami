@@ -16,17 +16,8 @@ entries:
       tags:
       - bitnami-common
       version: 1.x.x
-    description: Apache Airflow is a tool to express and execute workflows as directed
-      acyclic graphs (DAGs). It includes utilities to schedule tasks, monitor task
-      progress and handle task dependencies.
     digest: sha256:5e02e2310c728f441be1fe56d46c0ff70522317c43f43d2a2d33243d4f2c71c2
     home: https://github.com/bitnami/charts/tree/master/bitnami/airflow
-    icon: https://bitnami.com/assets/stacks/airflow/img/airflow-stack-220x234.png
-    keywords:
-    - apache
-    - airflow
-    - workflow
-    - dag
     maintainers:
     - name: Bitnami
       url: https://github.com/bitnami/charts
